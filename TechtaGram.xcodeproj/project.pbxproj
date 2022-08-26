@@ -289,6 +289,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TechtaGram/Info.plist;
+				INFOPLIST_KEY_NSCalendarsUsageDescription = "アプリ内で編集する写真を撮るためにカメラを起動します";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "編集した画像をフォトライブラリに保存します";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "アプリ内で編集するフォトライブラリから呼び出します";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -316,6 +319,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TechtaGram/Info.plist;
+				INFOPLIST_KEY_NSCalendarsUsageDescription = "アプリ内で編集する写真を撮るためにカメラを起動します";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "編集した画像をフォトライブラリに保存します";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "アプリ内で編集するフォトライブラリから呼び出します";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
